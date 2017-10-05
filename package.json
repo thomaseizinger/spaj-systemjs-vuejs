@@ -1,7 +1,8 @@
 {
   "scripts": {
     "dev": "live-server .",
-    "jspm": "jspm"
+    "jspm": "jspm",
+    "postinstall": "jspm install"
   },
   "jspm": {
     "dependencies": {
